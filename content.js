@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyBIqr-3IbJ4eKctUmqOTxLdsmdTxJXQ2G4";
+const API_KEY = "ADD_YOUR_KEY";
 
 function init() {
   setInterval(() => {
