@@ -12,7 +12,7 @@ Instead of YouTube recommending random videos, this extension finds the **next u
 - ✅ Detects channel automatically
 - ✅ Fetches uploads using YouTube Data API
 - ✅ Opens next video in upload order
-- ✅ Works on most channels
+- ✅ Works on every channels
 - ✅ Lightweight and fast
 
 ---
