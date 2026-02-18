@@ -62,6 +62,7 @@ const API_KEY = "AIzaSyXXXXXXX_your_real_key_here";
 
 
 
+
 🔄 After pasting — VERY IMPORTANT
 Reload extension:
 1. Open :chrome://extensions/
@@ -69,10 +70,12 @@ Reload extension:
 
 
 
+
 ▶️ Usage
 1. Open any YouTube video
 2. Click "Play next in order"
 3. Extension navigates to next uploaded video
+
 
 
 
