@@ -51,9 +51,13 @@ Done ✅
 2. Enable **YouTube Data API v3**
 3. Create API key
 4. Paste key in:
+
 If you see this at top of content.js:
+
 const API_KEY = "your_real_key"
+
 👉 Replace it with your real key like this:
+
 const API_KEY = "AIzaSyXXXXXXX_your_real_key_here";
 
 🔄 After pasting — VERY IMPORTANT
