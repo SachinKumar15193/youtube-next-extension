@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Play Next In Order",
+  "version": "1.0",
+  "description": "Play next uploaded video in order",
+  "permissions": [],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://www.googleapis.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
