@@ -60,15 +60,21 @@ const API_KEY = "your_real_key"
 
 const API_KEY = "AIzaSyXXXXXXX_your_real_key_here";
 
+
+
 🔄 After pasting — VERY IMPORTANT
 Reload extension:
 1. Open :chrome://extensions/
 2. Click: Reload
 
+
+
 ▶️ Usage
 1. Open any YouTube video
 2. Click "Play next in order"
 3. Extension navigates to next uploaded video
+
+
 
 📊 How It Works
 1. Detect channel from video page
